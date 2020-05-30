@@ -41,3 +41,54 @@ Calma! calma! pode parecer uma língua alienígena no começo, mas se olharmos c
 
 ## O css
 
+O css ( Cascading Style Sheets ) é o que usamos para estilizar as nossas tags html, apos dividirmos a tela em varias tags diferentes usamos o css para conseguir dar tamanho, forma e cores diferentes a cada tag, 
+
+### exemplo1
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<style>
+    div {
+        background-color: greenyellow;
+        height: 100px;
+        width: 100px;
+    }
+</style>
+<body>
+    <div> </div>
+</body>
+</html>
+```
+No exemplo acima temos um html com css e para entedermos melhor o css iremos olhar mais expicificamente a tag `` <style> `` que é onde colocamos o nossa estilização:
+
+```html
+<style>
+    div {
+        background-color: greenyellow;
+        height: 100px;
+        width: 100px;
+    }
+</style>
+```
+Detro da tag ``<style> `` temos: 
+ 
+```css
+ div {
+        background-color: greenyellow;
+        height: 100px;
+        width: 100px;
+    }
+```
+Apenas esse trecho de codigo é que chamanos de css, nele podemos notar algumas diferença como por exemplo as chaves ``{ ``  `` } `` onde é dentro dela colocamos algumas propiedades como largura (`` width ``), altura (`` heigth ``) e cor de fundo (``background-color``), é o nome que vem antes das chaves é o nome da tag html que estamos estilizando, nesse caso usamos a palavra div para estilizar a tag `` <div> ``, se copiarmos o codigo do exemplo1 e salvarmos em um arquivo que terminae com ``.html`` e depois clicarmos nele iremos abrir uma pagina no navegador que ira mostrar um quadrado verde:
+
+#### Exemplo de arquivo 
+
+
+       
