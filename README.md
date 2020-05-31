@@ -1,5 +1,9 @@
 # guia html e css
 
+<p align=center>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/33af2611811329.56252ce76a273.gif">
+</p>
+
 
 O html e css são a base da programação web, são eles que estruturam, dam forma e estilo para todos os sites e sistemas web, 
 por causa disso é muito importante ter conhecimento sobre essas tecnologias. Mas o que é realmente html e css ?
@@ -34,10 +38,6 @@ O html ( HyperText Markup Language ) é uma tecnologia conhecida como linguagen 
 ```
 
 Calma! calma! pode parecer uma língua alienígena no começo, mas se olharmos com mais atenção iremos ver que não existe nada de complicado, essas coisa que estão entre sinal de maior que, e menor que, como por exemplo o  `` <body> `` são o que chamamos de tags, e é com essas tags que sabemos o que é cada coisa no site, por exemplo na tag `` <body> `` é onde colocamos todo o html responsavel pelo corpo do site, existem dezenas de tags html e se você estiver curioso é quiser saber um pouco mais sobre cada tag, pode clicar nesse link aqui [click aqui para saber mais](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element), mas se não estiver muito curioso, saiba que o html divide a pagina web em varias áreas diferentes, chamadas de tags e essas tags nós ajudam a estruturar partes expecificas do nossos site. 
-<p align=center>
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/33af2611811329.56252ce76a273.gif">
-</p>
-
 
 ## O css
 
@@ -90,5 +90,9 @@ Apenas esse trecho de codigo é que chamanos de css, nele podemos notar algumas 
 
 #### Exemplo de arquivo 
 
+<img src="index.png">
 
+#### Pagina web
+
+<img src="pagina.jpeg">
        
