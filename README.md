@@ -87,7 +87,7 @@ Detro da tag ``<style> `` temos:
         width: 100px;
     }
 ```
-Apenas esse trecho de codigo é que chamanos de css, nele podemos notar algumas diferença como por exemplo as chaves ``{ ``  `` } `` onde é dentro dela colocamos algumas propiedades como largura (`` width ``), altura (`` heigth ``) e cor de fundo (``background-color``), é o nome que vem antes das chaves é o nome da tag html que estamos estilizando, nesse caso usamos a palavra div para estilizar a tag `` <div> ``, se copiarmos o codigo do exemplo1 e salvarmos em um arquivo que terminae com ``.html`` e depois clicarmos nele iremos abrir uma pagina no navegador que ira mostrar um quadrado verde:
+Apenas esse trecho de codigo é que chamanos de css, nele podemos notar algumas diferença como por exemplo as chaves ``{ ``  `` } `` onde é dentro dela colocamos algumas propiedades como largura (`` width ``), altura (`` heigth ``) e cor de fundo (``background-color``), é o nome que vem antes das chaves é o nome da tag html que estamos estilizando, nesse caso usamos a palavra div para estilizar a tag `` <div> ``, se copiarmos o codigo do exemplo1 e salvarmos em um arquivo que terminae com ``.html`` e depois clicarmos nele iremos abrir uma pagina no navegador que ira mostrar um quadrado verde com 100 pixels de altura e 100 pixels de largura:
 
 #### Exemplo de arquivo 
 
